@@ -1,0 +1,27 @@
+{
+  "name": "lesali-js",
+  "version": "0.0.1",
+  "description": "NaCL/Sodium based Message Protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://d-s-d@github.com/d-s-d/lesaliJS.git"
+  },
+  "keywords": [
+    "Public",
+    "Key",
+    "Cryptography"
+  ],
+  "author": "Stefan Dietiker <stefan.dietiker@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d-s-d/lesaliJS/issues"
+  },
+  "homepage": "https://github.com/d-s-d/lesaliJS",
+	"dependencies": {
+    "sodium": "^1.0.13"
+	}
+}
