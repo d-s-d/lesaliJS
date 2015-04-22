@@ -1,6 +1,6 @@
 {
   "name": "lesali-js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "NaCL/Sodium based Message Protocol",
   "main": "index.js",
   "scripts": {
